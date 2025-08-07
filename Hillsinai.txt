@@ -6,3 +6,5 @@ Bilal
 Good Soul
 Checking of branch
 jenu
+is an embedded engineer
+working at core cognitics
